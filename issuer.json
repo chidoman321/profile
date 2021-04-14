@@ -11,7 +11,7 @@
   "publicKey": [
     {
       "id": "0x85fca60bBCb1ab6103AD89d176e407aFdCDEe914",
-      "created": "2020-04-14T00:59:22.120806+00:00"
+      "created": "2020-04-14T00:59:22+0000"
     }
   ],
   "revocationList": "https://6073a6b0e4e0160017ddfc72.mockapi.io/revocation",
